@@ -12,5 +12,5 @@ The A-GAIN GUIDE was developed during 2021-2024 with support by the Berlin Senat
 A-GAIN GUIDE is built with Kirby CMS 3.5. Kirby CMS is not open source software. Please see [the Kirby website](https://getkirby.com) for more information.
 
 Custom parts developed for the A-GAIN GUIDE are open source: 
-- **Code** contained in this repository the [Kirby theme](/site/), the [content structure](/content/) and the [assets and  scripts](/assets/) that are needed for the [MAP](https://a-gain.guide/map) and the [GUIDE](https://a-gain.guide/guide) are licensed under the **[GNU GPL 3.0 or later](https://www.gnu.org/licenses/)**.
+- **Code** contained in this repository – the [Kirby theme](/site/), the [content structure](/content/) and the [assets and  scripts](/assets/) that are needed for the [MAP](https://a-gain.guide/map) and the [GUIDE](https://a-gain.guide/guide) – are licensed under the **[GNU GPL 3.0 or later](https://www.gnu.org/licenses/)**.
 - **Design and graphics** is licensed under a **[Creative Commons Attribution-Noncommercial-Sharealike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)** license.
